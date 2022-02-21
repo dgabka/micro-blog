@@ -9,7 +9,7 @@ It was created for the sole purpose of learning about NodeJS microservice archit
 Run:
 
 ```bash
-scaffold dev
+skaffold dev
 ```
 
 To setup all services in dev environment
